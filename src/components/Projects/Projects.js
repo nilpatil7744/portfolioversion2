@@ -35,7 +35,7 @@ function Projects() {
               description="Tripvillas is one of Asia's largest Holiday Home Rental Companies where owners of private homes could create a simple profile for their property and then correspond with like minded families who would be interested in staying in their homes as an alternate to hotels."
               link="https://github.com/nilpatil7744/tripvillas"
               linkmedium="https://nilp7744.medium.com/project-on-tripvillas-clone-5aceeccfc215"
-              linklive="https://6106ec6b42afb7f9d8a252bb--tripvillas-clone.netlify.app/"
+              linklive="https://tripvillas-clone.netlify.app/"
             />
           </Col>
 
