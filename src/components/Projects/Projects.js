@@ -47,7 +47,7 @@ function Projects() {
               description="Clockify is the only 100% free time tracking software on the market. It’s so simple that you and your team can track work time with one click. Everything in Clockify revolves around time entries. You track the time you spend working on things and then analyze workweeks in reports. Clockify also lets you invite others so you can track and analyze time together."
               link="https://github.com/nilpatil7744/team_oxygen"
               linkmedium="https://nilp7744.medium.com/project-on-clockify-clone-d6fa18977d4a"
-              linklive=""
+              linklive="https://clockify-clonee.netlify.app/"
             />
           </Col>
 
@@ -71,7 +71,7 @@ function Projects() {
               description="Animoto is a cloud-based video creation service that produces video from photos, video clips, and music into video slideshows,and customized web-based presentations."
               link="https://github.com/nilpatil7744/Project_Damodar"
               linkmedium="https://nilp7744.medium.com/masai-collaboration-project-animoto-clone-fec2a84b2f8b"
-              linklive=""
+              linklive="https://animoto-clone.netlify.app/"
             />
           </Col>
 
