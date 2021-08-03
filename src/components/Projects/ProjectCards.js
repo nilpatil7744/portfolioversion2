@@ -9,7 +9,7 @@ function ProjectCards(props) {
   return (
     <Card className="project-card-view">
       <br />
-      <Card.Title>{props.title}</Card.Title>
+      <Card.Title><a href={props.linklive} target="_blank">{props.title}</a></Card.Title>
       <Card.Img
         src={props.imgPath}
         alt="card-img"
