@@ -95,6 +95,7 @@ export default function TransitionsModal() {
                   type="text"
                   placeholder="Write Your Name"
                   className="input-nilp"
+                  required
                 />
                 <input
                   id="email"
@@ -102,12 +103,14 @@ export default function TransitionsModal() {
                   name="email"
                   placeholder="Write Your Email"
                   className="input-nilp"
+                  required
                 />
                 <textarea
                   id="message"
                   placeholder="Write here..."
                   name="message"
                   className="input-nilp2"
+                  required
                 />
                 <br /> <br />
                 <Button type="submit" style={{ width: "60%" }}>
